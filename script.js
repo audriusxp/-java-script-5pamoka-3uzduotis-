@@ -5,13 +5,12 @@ window.onload = function (){
 
 
 }
-function kasAntrasElementas(masyvas){
-     { for (let i = 0; i < masyvas.length; i+=2) {
+function kasAntrasElementas(masyvas)
+{
+     { for (let i = 0; i < masyvas.length; i+=2)
+         {
         console.log(masyvas[i]); 
          
+         }
      }
-        
-        
-        
-    }
 }
